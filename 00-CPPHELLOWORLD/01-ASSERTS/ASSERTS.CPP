@@ -25,4 +25,3 @@ int main() {
     assert(3E6 == 3'000'000.0 );
     assert(2.0 + 1 == 3.0);
     assert(1.0);
-    
