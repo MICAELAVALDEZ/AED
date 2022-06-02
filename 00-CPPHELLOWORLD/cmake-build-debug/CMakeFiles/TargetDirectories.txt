@@ -1,3 +1,0 @@
-C:/Users/Diego/CLionProjects/AED/00-CPPHELLOWORLD/cmake-build-debug/CMakeFiles/00_CPPHELLOWORLD.dir
-C:/Users/Diego/CLionProjects/AED/00-CPPHELLOWORLD/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Diego/CLionProjects/AED/00-CPPHELLOWORLD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
